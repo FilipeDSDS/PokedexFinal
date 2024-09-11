@@ -1,1 +1,3 @@
 # PokedexFinal
+
+- ADS 
